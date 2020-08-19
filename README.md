@@ -4,8 +4,8 @@
 <br>
 
 <p>Contents of the course:
-<li>
-    <ul>TCP Server & TCP Client
-    <ul>NMAP Scanner
-    <ul>Banner Grabber
-</li>
+<ul>
+    <li>TCP Server & TCP Client </li>
+    <li>NMAP Scanner            </li>
+    <li>Banner Grabber          </li>
+</ul>
