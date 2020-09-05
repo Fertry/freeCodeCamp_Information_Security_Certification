@@ -2,6 +2,7 @@
 # https://github.com/Fertry/freeCodeCamp_Information_Security_Certification
 # This file is a TCP SERVER
 
+# Librerias importadas
 import socket
 
 # Definimos el objeto 'serverSocket'
